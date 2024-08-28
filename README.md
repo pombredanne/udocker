@@ -27,7 +27,7 @@ containers with minimal functionality.
 **Important notice: We have changed the udocker tools location as of udocker 1.3.17.
 This affects the configuration option `conf['tarball']` and environment variable
 `UDOCKER_TARBALL`, so if you are using udocker <= 1.3.16, make sure to:
-`export UDOCKER_TARBALL=https://download.a.incd.pt/udocker/udocker-englib-1.2.11.tar.gz`.
+`export UDOCKER_TARBALL=https://download.a.incd.pt/udocker/udocker-englib-1.2.11.tar.gz`.**
 
 ## Documentation
 
